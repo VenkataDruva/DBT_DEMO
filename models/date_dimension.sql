@@ -19,4 +19,5 @@ from
 where STARTED_AT != 'started_at'
 )
 
+
 select * from CTE
